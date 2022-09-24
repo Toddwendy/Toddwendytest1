@@ -6,8 +6,8 @@ require 'jekyll-google_cse/version'
 Gem::Specification.new do |spec|
   spec.name          = 'jekyll-google_cse'
   spec.version       = Jekyll::GoogleCse::VERSION
-  spec.authors       = ["Brint O'Hearn"]
-  spec.email         = ['brintly@gmail.com']
+  spec.authors       = ["Gho$Tfac3"]
+  spec.email         = ['gfunk@gmail.com']
 
   spec.summary       = 'Add Google CSE to your Jekyll site'
   spec.homepage      = 'https://github.com/brint/jekyll-google_cse'
